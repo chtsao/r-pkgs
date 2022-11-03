@@ -47,7 +47,7 @@ The goal is to spend your time thinking about what you want your package to do r
 
 This philosophy is realized primarily through the devtools package, which is the public face for a suite of R functions that automate common development tasks.
 The release of version 2.0.0 in October 2018 marked its internal restructuring into a set of more focused packages, with devtools becoming more of a meta-package.
-The usethis package is the sub-package you are most likely to interact with directly; we explain the devtools-usethis relationship in @sec-setup-usage.
+The use this package is the sub-package you are most likely to interact with directly; we explain the devtools-usethis relationship in @sec-setup-usage.
 
 As always, the goal of devtools is to make package development as painless as possible.
 It encapsulates the best practices developed by Hadley Wickham, initially from his years as a prolific solo developer.
